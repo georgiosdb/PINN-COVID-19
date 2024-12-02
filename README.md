@@ -6,7 +6,7 @@
 
 # Read the preprint.
 
-https://arxiv.org/abs/2008.08162v1
+https://onlinelibrary.wiley.com/doi/10.15302/J-QB-022-0281
 
 # Citation
 
