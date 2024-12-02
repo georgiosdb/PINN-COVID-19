@@ -10,9 +10,4 @@ https://arxiv.org/abs/2008.08162v1
 
 # Citation
 
-@article{gdbgts2020PINNCOVID19,<br/>
-  title={Physics-informed machine learning for the COVID-19 pandemic: Adherence to social distancing and short-term predictions for eight countries.},<br/>
-  author={Barmparis, G. P and Tsironis, G. P},<br/>
-  journal={arXiv preprint arXiv:2008.08162v1},<br/>
-  year={2020}<br/>
-}
+Barmparis, G.D. and Tsironis, G.P. (2022), Physics-informed machine learning for the COVID-19 pandemic: Adherence to social distancing and short-term predictions for eight countries. Quantitative Biology, 10: 139-149. https://doi.org/10.15302/J-QB-022-0281
